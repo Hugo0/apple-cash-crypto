@@ -2,7 +2,7 @@
 
 # Apple Cash, but Not Centralized Crap
 
-By Gianluka Minoprio ([@glminoprio](https://x.com/glminoprio)) and Hugo Montenegro ([@uwwgo](https://x.com/uwwgo))
+By Gianluca Minoprio ([@glminoprio](https://x.com/glminoprio)) and Hugo Montenegro ([@uwwgo](https://x.com/uwwgo))
 
 ## Vision
 
