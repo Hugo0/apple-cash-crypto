@@ -19,6 +19,8 @@
 		<string>com.apple.keyboard-service</string>
 		<key>NSExtensionPrincipalClass</key>
 		<string>$(PRODUCT_MODULE_NAME).KeyboardViewController</string>
+		<key>CFBundleDisplayName</key>
+		<string>AppleCashCrypto</string>
 	</dict>
 </dict>
 </plist>

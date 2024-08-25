@@ -10,7 +10,7 @@ By Gianluka Minoprio ([@glminoprio](https://x.com/glminoprio)) and Hugo Monteneg
 
 ## Description
 
-[Apple Cash](https://www.apple.com/apple-cash/)[1] has amazing UX but its🇦🇷 **ONLY** iPhone users **ONLY** in US **AND** subject to Apples tyrannical rules and fees. It's centralized crap. It's not interoperable. Argentinians 🇦🇷 can't use it. And even if they could, they'd have to pay almighty Apple rent-seeking fees and make Tim Cook's pockets even fatter.
+[Apple Cash](https://www.apple.com/apple-cash/)[1] has amazing UX but its **ONLY** iPhone users **ONLY** in US **AND** subject to Apples tyrannical rules and fees. It's centralized crap. It's not interoperable. Argentinians 🇦🇷 can't use it. And even if they could, they'd have to pay almighty Apple rent-seeking fees and make Tim Cook's pockets even fatter.
 
 Me and Gianluka both work in payments and are obsessed about UX. In one of our countless conversations here in Aleph we said - Apple Cash UX is so good. Can we do this with crypto and put apple cash directly in your keyboard?
 
@@ -30,11 +30,39 @@ We make it for everyone using crypto. You DON'T need to KYC. You DON'T need to w
 
 We have built and packaged releases for Arbitrum, zkSync, Avalanche, Polygon and Solana.
 
-## Next Steps
+## 🇦🇷 Next Steps 🏃🏃
 
 In our opinion, every wallet should offer this to their users. If Argentinian people can just pay directly where they _already are_, without having to move to third party apps, then we can bootstrap the crypto economy and drive viral crypto adoption - every payment becomes a new user.
 
-We care _a lot_ about UX and think we've done something really cool here. We just copied apple but turns out, we've built a better product - it's interoperable! 
+We care _a lot_ about UX and think we've done something really cool here. We just copied apple cash but turns out, we've built a better product!
+
+## Installation / How to Run
+
+### File Structure
+
+The project is organized into separate releases for different blockchain networks:
+
+```
+.
+├── Release_Arbitrum
+├── Release_zkSync
+├── Release_Avalanche
+├── Release_Polygon
+└── Release_Solana
+```
+
+To run this project:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/apple-cash-crypto.git
+   cd apple-cash-crypto
+   ```
+
+2. Choose the desired network release folder (e.g., `Release_Arbitrum`).
+3. Use Xcode to open the project and run it on your device.
+
+**Soon: release on Apple Testflight and install it!**
 
 ## References
 
