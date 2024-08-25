@@ -34,6 +34,8 @@ We have built and packaged releases for Arbitrum, zkSync, Avalanche, Polygon and
 
 In our opinion, every wallet should offer this to their users. If Argentinian people can just pay directly where they _already are_, without having to move to third party apps, then we can bootstrap the crypto economy and drive viral crypto adoption - every payment becomes a new user.
 
+We care _a lot_ about UX and think we've done something really cool here. We just copied apple but turns out, we've built a better product - it's interoperable! 
+
 ## References
 
 [1] Apple Cash: A digital card in Apple Wallet that allows users to send, receive, and spend money. It's integrated with Apple Pay for use in stores, apps, and online purchases. However, it's limited to U.S. residents and requires an Apple device.
